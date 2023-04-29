@@ -5,7 +5,7 @@ EasyBuggy is a broken web application in order to understand behavior of bugs an
 
 ![logo](https://raw.githubusercontent.com/wiki/k-tamura/easybuggy/images/mov_eb.gif)
 
-
+# Useful commands
 #To get context information of kubernetes cluster
 cat /home/ec2-user/.kube/config 
 
